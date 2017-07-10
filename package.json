@@ -1,0 +1,16 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "ChatBOT for Skype ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arfaa Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "prompt-choices": "^4.0.4",
+    "restify": "^5.0.0"
+  }
+}
